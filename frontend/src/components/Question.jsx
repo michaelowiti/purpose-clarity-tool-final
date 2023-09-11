@@ -28,7 +28,7 @@ export default function Question({ val, stepItem, setInput }) {
         style={{ backgroundColor: "#9F2232" }}
       >
         <div className='card-header h5 text-center'>
-          Use this questions as a guide
+          Use these questions as a guide
         </div>
         <div className='card-body'>
           <ul>

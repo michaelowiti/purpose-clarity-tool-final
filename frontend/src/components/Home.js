@@ -19,26 +19,25 @@ const Home = () => {
             <br />
             You must keep refining your responses and your purpose will be
             clearer with time.True purpose is believed to be clarified through
-            continuous experimentations
-            <br /> with jobs or assignments rather than just thinking. The PCT
-            is grounded for example question 1 and 2 ensure that your purpose is
+            continuous experimentations with jobs or assignments rather than just
+            thinking.<br /><br />   The PCT is grounded for example question 1 and 2 ensure that your purpose is
             entrenched in reality not just
-            <br /> fancy-desires,imaginations or high-sounding statements.If you
+            fancy-desires,imaginations or high-sounding statements.If you
             have already clarified your purpose,there two things you can
-            do.(1)you can move straight into
-            <br /> writing my purpose story and (2) you can examine your purpose
+            do.(1)you can move straight into writing my purpose story and (2) you can examine your purpose
             against the 7Qs to establish it's completeness
           </p>
         </div>
         <div className='purpose-questions'>
-          <h4 className='h4'>
-            The questions asked will be based in these 7 key areas
-          </h4>
-          <p>
-            You can continue answering the questions from wehre you left off by
-            clicking on the topic you left off or you can start from scratch,
-            review, collect and add to your answer by clicking the button below.
+          
+        <p>
+          Whenever you log in, you can answer questions from number 1, continue where you left off by clicking on the specific question you stopped on, or review or correct an answer.  
           </p>
+
+          <h4 className='h4'>
+          Here is the Summary of the 7Qs
+          </h4>
+          
           <div className='questions-wrapper'>
             <div className='left'>
               <Link to='/form?question=1' className='quiz-item'>

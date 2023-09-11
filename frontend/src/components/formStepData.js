@@ -12,7 +12,7 @@ export const steps = [
         </p>
         <p>
           This question is meant to bring out something in you. It aims at two
-          key aspects;
+          key aspects:
         </p>
         <ul>
           <li>
@@ -28,8 +28,8 @@ export const steps = [
           </li>
           <li>
             <strong>
-              Why you and not someone else be the bearer of the particular
-              purpose
+              Why you and not someone else should be the bearer of the particular
+              purpose?
             </strong>
             <p>Clarifying your purpose starts with clarifying who you are.</p>
           </li>
@@ -44,10 +44,10 @@ export const steps = [
       "What are your identities, beliefs and convictions?",
       "What do you value?",
       "What are your psychological or growth needs and motivation?",
-      "What are your natural or innate abilities?",
+      
       "What are your learned abilities (skills and knowledge)?",
       "What is your personality?",
-      "What are your natural abilities or talent?",
+      "What are your natural,innate abilities or talent?",
       "What are your passions and tendencies?",
     ],
   },
@@ -106,7 +106,7 @@ export const steps = [
           At this stage, include all things you love doing. You may include
           watching cartoons the whole day at this level if it is one of the
           things you love to do because it could indicate the underlying
-          potential;
+          potential.
         </p>
         <p>
           However, by the time you answer all <strong>7Qs</strong>, you will
@@ -202,7 +202,7 @@ export const steps = [
           </i>
         </p>
         <p>
-          <i>The following sub-questions will guide you through:</i>
+          
         </p>
       </div>
     ),
@@ -220,7 +220,7 @@ export const steps = [
         <p>
           <strong>
             State not just the output but the outcome, which is the impact of
-            your action.
+            your actions.
           </strong>
         </p>
         <p>
@@ -231,7 +231,7 @@ export const steps = [
           <br />
           Personally,{" "}
           <i>
-            I inspire individuals and organisations to live meaningful lives;
+            I inspire individuals and organisations to live meaningful lives;I
             inspire my beneficiaries through training and advisory, and as a
             result, they live meaningful lives.
           </i>
